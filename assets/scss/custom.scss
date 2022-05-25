@@ -1,0 +1,20 @@
+@import "node_modules/bootstrap/scss/bootstrap";
+// @import "node_modules/bootstrap/scss/functions";
+// @import "node_modules/bootstrap/scss/variables";
+// @import "node_modules/bootstrap/scss/mixins";
+
+// Doc: https://getbootstrap.com/docs/4.5/content/
+// @import "node_modules/bootstrap/scss/reboot";
+// @import "node_modules/bootstrap/scss/type";
+// @import "node_modules/bootstrap/scss/code";
+// @import "node_modules/bootstrap/scss/images";
+// @import "node_modules/bootstrap/scss/tables";
+
+// Doc: https://getbootstrap.com/docs/4.5/utilities/
+// @import "node_modules/bootstrap/scss/utilities";
+
+@import "node_modules/element-ui/lib/theme-chalk/index.css";
+
+.bg-highlevel {
+  background: #09223d;
+}
